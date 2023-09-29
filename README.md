@@ -8,7 +8,6 @@ Software Developer with 4+ years of experience of creating web applications usin
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [delacruzrmn@gmail.com](mailto:delacruzrmn@gmail.com)
-* 🧠  I'm learning Node & React (Express)
 * ⚡  I love to learn new stuff
 
 ### Skills
